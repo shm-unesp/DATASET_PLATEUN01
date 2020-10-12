@@ -1,4 +1,4 @@
-# Dataset: carbon-epoxy Composite Plate UN01
+# Dataset: Carbon-Epoxy Composite Plate UN01
 
 A carbon-epoxy laminated with layup containing 10 plies unidirectionally oriented along 0º with four PZTs SMART Layers from Accelent Technologies, with 6.35 mm in diameter and 0.25 mm in thickness with a free-free boundary condition. PZT 1 is used as an actuator with a five-cycle tone burst input signal applied with 35 V of amplitude and center frequency of 250 kHz.
 This dataset was used in these papers:
