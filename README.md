@@ -22,6 +22,8 @@ da Silva S, Paixão J, Rébillat M, Mechbal N. Extrapolation of AR models using 
 
 Paixão J.A.S., da Silva S., Figueiredo E. (2020) Damage Quantification in Composite Structures Using Autoregressive Models. In: Wahab M. (eds) Proceedings of the 13th International Conference on Damage Assessment of Structures. Lecture Notes in Mechanical Engineering. Springer, Singapore. https://doi.org/10.1007/978-981-13-8331-1_63
 
+da Silva, S., Data-Driven AR Model Identification for SHM in Anisotropic Composite Plates, July 2019, Conference: 9th ECCOMAS Thematic Conference on Smart Structures and Materials, https://doi.org/10.13140/RG.2.2.20492.46720
+
 Paixão, J. A. S. ; da Silva, Samuel ; Figueiredo, Eloi ; RADU, L. ; PARK, G. . Delamination area quantification in composite structures using Gaussian process regression and AR models. JOURNAL OF VIBRATION AND CONTROL, 2020.
 
 da Silva, S. Data-driven model identification of guided wave propagation in composite structures. J Braz. Soc. Mech. Sci. Eng. 40, 543 (2018). https://doi.org/10.1007/s40430-018-1462-4
