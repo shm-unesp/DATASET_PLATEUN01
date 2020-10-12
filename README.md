@@ -1,6 +1,9 @@
 # Dataset: Carbon-Epoxy Composite Plate UN01
+<img src="logos/estrutura.jpg " width="50%">
 
 A carbon-epoxy laminated with layup containing 10 plies unidirectionally oriented along 0º with four PZTs SMART Layers from Accelent Technologies, with 6.35 mm in diameter and 0.25 mm in thickness with a free-free boundary condition. PZT 1 is used as an actuator with a five-cycle tone burst input signal applied with 35 V of amplitude and center frequency of 250 kHz.
+
+The outputs are collected in PZT 2, PZT 3, and PZT 4 with a sampling rate of 5 MHz and timespan of 200 ms with all channels synchronized measured. Data acquisition was controlled by Labview using a NI USB 6353 from National Instrument (NIDaq) and an oscilloscope DSO7034B Keysight assuming a controlled temperatures tests conducted inside a thermal chamber from Thermotron.
 
 ________________________________________________________________________________
 This dataset was used in these papers:
