@@ -13,7 +13,7 @@ Damage is simulated by inserting an industrial adhesive putty on the surface’s
 mass simulates local changes in the damping of the plate, which has some similarities to delamination in composites structures. The damage progression is simulated by increasing the area covered by the industrial putty. The conditions tested are presented in Table 1. Healthy conditions are referred to as H(t) and damaged as D(t)^(s), where the superscript t denotes the temperature of the test and subscript s the number of damaged state. Baseline condition is defined as the structure in a healthy state at 30°C, represented by Hbaseline. For each condition, 100 output signals were collected sequentially. The progressive damage
 conditions were simulated by the increase in the area covered with the putty, which has a circular format and constant mass.
 
-<img src="temperatura.png " width="50%">
+<img src="tabela.png " width="50%">
 ________________________________________________________________________________
 This dataset was used in these papers:
 
