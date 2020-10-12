@@ -5,9 +5,14 @@ A carbon-epoxy laminated with layup containing ten plies unidirectionally orient
 
 <img src="geral.JPG " width="25%">
 
-The outputs are collected in PZT 2, PZT 3, and PZT 4 with a sampling rate of 5 MHz and timespan of 200 ms with all channels synchronized measured. Data acquisition was controlled by Labview using a NI USB 6353 from National Instrument (NIDaq) and an oscilloscope DSO7034B Keysight assuming a controlled temperature test conducted inside a thermal chamber from Thermotron (see figure below).
+The outputs are collected in PZT 2, PZT 3, and PZT 4 with a sampling rate of 5 MHz and timespan of 200 ms with all channels synchronized measured. Data acquisition was controlled by Labview using a NI USB 6353 from National Instrument (NIDaq) and an oscilloscope DSO7034B Keysight assuming a controlled temperature test conducted inside a thermal chamber from Thermotron (see figure below). Seven temperature levels from 0°C to 60°C with a variation of 10°C in each level were saved.
 
 <img src="temperatura.JPG " width="25%">
+
+Damage is simulated by inserting an industrial adhesive putty on the surface’s plate. This additional localized
+mass simulates local changes in the damping of the plate, which has some similarities to delamination in composites structures. The damage progression is simulated by increasing the area covered by the industrial putty. The conditions tested are presented in Table 1. Healthy conditions are referred to as H(t) and damaged as D(t)^(s), where the superscript t denotes the temperature of the test and subscript s the number of damaged state. Baseline condition is defined as the structure in a healthy state at 30°C, represented by Hbaseline. For each condition, 100 output signals were collected sequentially. The progressive damage
+conditions were simulated by the increase in the area covered with the putty, which has a circular format and constant mass.
+
 
 ________________________________________________________________________________
 This dataset was used in these papers:
