@@ -16,6 +16,8 @@ conditions were simulated by the increase in the area covered with the putty, wh
 <img src="tabela.png " width="80%">
 
 ________________________________________________________________________________
+The data are still available for non-commercial research under the following terms: (i) the SHM Lab at UNESP/Ilha Solteira should be acknowledged as the source of the data; (ii) in publications, relevant publications by members of the SHM Lab at UNESP/Ilha Solteira should be cited.
+
 This dataset was used in these papers:
 
 da Silva S, Paixão J, Rébillat M, Mechbal N. Extrapolation of AR models using cubic splines for damage progression evaluation in composite structures. Journal of Intelligent Material Systems and Structures. October 2020. https://doi.org/10.1177/1045389X20963171
