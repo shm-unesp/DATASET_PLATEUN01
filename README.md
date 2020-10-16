@@ -1,4 +1,9 @@
 # Dataset: Carbon-Epoxy Composite Plate UN01
+
+São Paulo Research Foundation (FAPESP) and Brazilian National Council for Scientific and Technological Developmen (CNPq) funded this experimental setup.
+
+________________________________________________________________________________
+# Description
 <img src="estrutura.jpg " width="70%">
 
 A carbon-epoxy laminated with layup containing ten plies unidirectionally oriented along 0º with four PZTs SMART Layers from Accelent Technologies, with 6.35 mm in diameter and 0.25 mm in thickness with a free-free boundary condition. PZT 1 is used as an actuator with a five-cycle tone burst input signal applied with 35 V of amplitude and center frequency of 250 kHz.
@@ -16,6 +21,8 @@ conditions were simulated by the increase in the area covered with the putty, wh
 <img src="tabela.png " width="80%">
 
 ________________________________________________________________________________
+# References
+
 The data are still available for non-commercial research under the following terms: (i) the SHM Lab at UNESP/Ilha Solteira should be acknowledged as the source of the data; (ii) in publications, relevant publications by members of the SHM Lab at UNESP/Ilha Solteira should be cited.
 
 This dataset was used in these papers:
