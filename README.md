@@ -4,7 +4,7 @@ To download the data set, please fill the form:
 
 https://forms.gle/ynKGU1aZBaJJYj3n9
 
-São Paulo Research Foundation (<p><a href="https://fapesp.br/">FAPESP</a></p>), grant numbers 2017/15512-8, 2018/15671-1, 2019/11755-9, and 2019/19684-3, Brazilian National Council for Scientific and Technological Development (CNPq), grant number 306526/2019-0, and Brazilian Coordination for the Improvement of Higher Education Personnel (CAPES/Brasil)-Finance Code 001 funded this experimental setup.
+São Paulo Research Foundation (<a href="http://www.fapesp.br">FAPESP</a>), grant numbers 2017/15512-8, 2018/15671-1, 2019/11755-9, and 2019/19684-3, Brazilian National Council for Scientific and Technological Development (CNPq), grant number 306526/2019-0, and Brazilian Coordination for the Improvement of Higher Education Personnel (CAPES/Brasil)-Finance Code 001 funded this experimental setup.
 
 <img src="sponsors.jpg " width="50%">
 
