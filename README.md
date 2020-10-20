@@ -29,7 +29,7 @@ conditions were simulated by the increase in the area covered with the putty, wh
 ________________________________________________________________________________
 # References
 
-The data are still available for non-commercial research under the following terms: (i) the SHM Lab at UNESP/Ilha Solteira should be acknowledged as the source of the data; (ii) in publications, relevant publications by members of the SHM Lab at UNESP/Ilha Solteira should be cited.
+The data are still available for non-commercial research under the following terms: (i) the SHM Lab at UNESP/Ilha Solteira should be acknowledged as the source of the data; (ii) in publications, relevant publications by members of the SHM Lab at UNESP/Ilha Solteira should be cited; (iii) this benchmark should be cited as UNESP-CONCEPT.  
 
 This dataset was used in these papers and dissertations:
 
