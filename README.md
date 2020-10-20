@@ -46,3 +46,50 @@ da Silva, S., Paixão J, Rébillat M, Mechbal N. Data-Driven AR Model Identifica
 da Silva, S. Data-driven model identification of guided wave propagation in composite structures. J Braz. Soc. Mech. Sci. Eng. 40, 543 (2018). https://doi.org/10.1007/s40430-018-1462-4
 
 ________________________________________________________________________________
+# How to cite
+
+If you are using a LaTeX Editor, you can cite the papers above using these BibTeX citations:
+
+@article{doi:10.1177/1045389X20963171,
+author = {Samuel da Silva and Jessé Paixão and Marc Rébillat and Nazih Mechbal},
+title ={Extrapolation of AR models using cubic splines for damage progression evaluation in composite structures},
+journal = {Journal of Intelligent Material Systems and Structures},
+volume = {0},
+number = {0},
+pages = {1045389X20963171},
+year = {0},
+doi = {10.1177/1045389X20963171},
+URL = {https://doi.org/10.1177/1045389X20963171} 
+}
+
+@InProceedings{10.1007/978-981-13-8331-1_63,
+author="Paix{\~a}o, Jess{\'e} A. S.
+and da Silva, Samuel
+and Figueiredo, Eloi",
+editor="Wahab, Magd Abdel",
+title="Damage Quantification in Composite Structures Using Autoregressive Models",
+booktitle="Proceedings of the 13th International Conference on Damage Assessment of Structures",
+year="2020",
+publisher="Springer Singapore",
+address="Singapore",
+pages="804--815"
+}
+
+@article{Silva2018,
+	author = {da Silva, Samuel},
+  title = {Data-driven model identification of guided wave propagation in composite structures},
+	Da = {2018/10/26},
+	Date-Added = {2020-10-20 16:50:34 -0300},
+	Date-Modified = {2020-10-20 16:50:53 -0300},
+	Doi = {10.1007/s40430-018-1462-4},
+	Id = {da Silva2018},
+	Isbn = {1806-3691},
+	journal = {Journal of the Brazilian Society of Mechanical Sciences and Engineering},
+	humber = {11},
+	pages = {543},
+	Ty = {JOUR},
+	Url = {https://doi.org/10.1007/s40430-018-1462-4},
+	Volume = {40},
+	Year = {2018},
+	Bdsk-Url-1 = {https://doi.org/10.1007/s40430-018-1462-4}
+  }
