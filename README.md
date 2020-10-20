@@ -1,5 +1,9 @@
 # Dataset: Carbon-Epoxy Composite Plate UN01
 
+To download the data set, please fill the form:
+
+https://forms.gle/ynKGU1aZBaJJYj3n9
+
 São Paulo Research Foundation (FAPESP) and Brazilian National Council for Scientific and Technological Developmen (CNPq) funded this experimental setup.
 
 ________________________________________________________________________________
