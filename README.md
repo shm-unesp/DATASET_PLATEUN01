@@ -49,7 +49,7 @@ ________________________________________________________________________________
 # How to cite
 
 If you are using a LaTeX Editor, you can cite the papers above using these BibTeX citations:
-
+```
 @article{doi:10.1177/1045389X20963171,
 author = {Samuel da Silva and Jessé Paixão and Marc Rébillat and Nazih Mechbal},
 title ={Extrapolation of AR models using cubic splines for damage progression evaluation in composite structures},
@@ -93,3 +93,4 @@ pages="804--815"
 	Year = {2018},
 	Bdsk-Url-1 = {https://doi.org/10.1007/s40430-018-1462-4}
   }
+```
