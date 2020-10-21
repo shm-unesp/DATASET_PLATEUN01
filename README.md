@@ -43,7 +43,7 @@ This dataset was used in these papers and dissertations:<br>
 
 <li>Paixão J.A.S., da Silva S., Figueiredo E. (2020) Damage Quantification in Composite Structures Using Autoregressive Models. In: Wahab M. (eds) Proceedings of the 13th International Conference on Damage Assessment of Structures. Lecture Notes in Mechanical Engineering. Springer, Singapore. https://doi.org/10.1007/978-981-13-8331-1_63</li><br>
 
-<li>da Silva, S., Paixão J, Rébillat M, Mechbal N. Data-Driven AR Model Identification for SHM in Anisotropic Composite Plates, July 2019, Conference: 9th ECCOMAS Thematic Conference on Smart Structures and Materials, https://doi.org/10.13140/RG.2.2.20492.46720</li>
+<li>da Silva, S., Paixão J, Rébillat M, Mechbal N. Data-Driven AR Model Identification for SHM in Anisotropic Composite Plates, July 2019, Conference: 9th ECCOMAS Thematic Conference on Smart Structures and Materials, https://doi.org/10.13140/RG.2.2.20492.46720</li><br>
 
 <li>da Silva, S. Data-driven model identification of guided wave propagation in composite structures. Journal of the Brazilian Society of Mechanical Sciences and Engineering, 40, 543 (2018). https://doi.org/10.1007/s40430-018-1462-4</li><br>
 
@@ -100,7 +100,7 @@ ________________________________________________________________________________
 # License
 
 <img src="licenca.png" width="10%">
-Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA)
+Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA):
 
 A creative commons license that bans commercial use and requires you to release any modified works under this license.
 __________________________________________________________________________________________________
