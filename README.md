@@ -37,7 +37,7 @@ This dataset was used in these papers and dissertations:<br>
 
 <li>da Silva S, Paixão J, Rébillat M, Mechbal N. Extrapolation of AR models using cubic splines for damage progression evaluation in composite structures. Journal of Intelligent Material Systems and Structures. October 2020. https://doi.org/10.1177/1045389X20963171</li><br>
 
-<li>Paixão, J. A. S. ; da Silva, Samuel ; Figueiredo, Eloi ; RADU, L. ; PARK, G. . Delamination area quantification in composite 	structures using Gaussian process regression and AR models. Journal of Vibration and Control, 2020.</li><br>
+<li>Paixão, J. A. S. ; da Silva, Samuel ; Figueiredo, Eloi ; RADU, L. ; PARK, G. . Delamination area quantification in composite 	structures using Gaussian process regression and AR models. Journal of Vibration and Control, 2020. https://doi.org/10.1177/1077546320966183</li><br>
 
 <li>Paixão, J. A. S.; Damage quantification in laminated composites using gaussian process regression model; Dissertation in Mechanical Engineering; São Paulo State University, Ilha Solteira/SP, Brazil, August 2020, http://hdl.handle.net/11449/193430</li><br>
 
@@ -61,6 +61,19 @@ pages = {1045389X20963171},
 year = {0},
 doi = {10.1177/1045389X20963171},
 URL = {https://doi.org/10.1177/1045389X20963171} 
+}
+
+@article{doi:10.1177/1077546320966183,
+author = {Jess{\'e} Paix{\~a}o and Samuel da Silva and Eloi Figueiredo and Lucian Radu and Gyuhae Park},
+title ={Delamination area quantification in composite structures using Gaussian process regression and auto-regressive models},
+journal = {Journal of Vibration and Control},
+volume = {0},
+number = {0},
+pages = {1077546320966183},
+year = {0},
+doi = {10.1177/1077546320966183},
+URL = {https://doi.org/10.1177/1077546320966183},
+eprint = {https://doi.org/10.1177/1077546320966183}
 }
 
 @InProceedings{10.1007/978-981-13-8331-1_63,
