@@ -4,11 +4,7 @@ To download the data set, please fill the form:
 
 https://forms.gle/ynKGU1aZBaJJYj3n9
 
-São Paulo Research Foundation (<a href="http://www.fapesp.br">FAPESP</a>), grant numbers 2017/15512-8, 2018/15671-1, 2019/11755-9, and 2019/19684-3, Brazilian National Council for Scientific and Technological Development (<a href="http://www.cnpq.br/">CNPq</a>), grant number 306526/2019-0, and Brazilian Coordination for the Improvement of Higher Education Personnel (<a href="https://www.gov.br">CAPES</a>)-Finance Code 001 funded this experimental setup.
-
-<img src="sponsors.jpg " width="50%">
-
-________________________________________________________________________________
+_______________________________________________________________________________
 # Description
 <img src="estrutura.jpg " width="70%">
 
@@ -25,6 +21,12 @@ mass simulates local changes in the damping of the plate, which has some similar
 conditions were simulated by the increase in the area covered with the putty, which has a circular format and constant mass.
 
 <img src="tabela.png " width="80%">
+
+__________________________________________________________________________________________________
+# Authors
+
+  <li>Jessé Paixão</li>
+  <li>Samuel da Silva</li>
 
 ________________________________________________________________________________
 # References
@@ -94,3 +96,18 @@ pages="804--815"
 	Bdsk-Url-1 = {https://doi.org/10.1007/s40430-018-1462-4}
   }
 ```
+__________________________________________________________________________________________________
+# License
+
+<img src="licenca.png" width="10%">
+Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA)
+
+A creative commons license that bans commercial use and requires you to release any modified works under this license.
+
+__________________________________________________________________________________________________
+# Funding
+
+São Paulo Research Foundation (<a href="http://www.fapesp.br">FAPESP</a>), grant numbers 2017/15512-8, 2018/15671-1, 2019/11755-9, and 2019/19684-3, Brazilian National Council for Scientific and Technological Development (<a href="http://www.cnpq.br/">CNPq</a>), grant number 306526/2019-0, and Brazilian Coordination for the Improvement of Higher Education Personnel (<a href="https://www.gov.br">CAPES</a>)-Finance Code 001 funded this experimental setup.
+
+<img src="sponsors.jpg " width="50%">
+
