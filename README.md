@@ -34,7 +34,7 @@ ________________________________________________________________________________
 The data are still available for non-commercial research under the following terms: (i) the SHM Lab at UNESP/Ilha Solteira should be acknowledged as the source of the data; (ii) in publications, relevant publications by members of the SHM Lab at UNESP/Ilha Solteira should be cited; (iii) this benchmark should be cited as UNESP-CONCEPT.  
 
 This dataset was used in these papers and dissertations:
-
+<br>
 <li>da Silva S, Paixão J, Rébillat M, Mechbal N. Extrapolation of AR models using cubic splines for damage progression evaluation in composite structures. Journal of Intelligent Material Systems and Structures. October 2020. https://doi.org/10.1177/1045389X20963171</li>
 <br>
 <li>Paixão, J. A. S. ; da Silva, Samuel ; Figueiredo, Eloi ; RADU, L. ; PARK, G. . Delamination area quantification in composite 	structures using Gaussian process regression and AR models. Journal of Vibration and Control, 2020.</li>
@@ -49,6 +49,7 @@ This dataset was used in these papers and dissertations:
 <br>
 <br>
 If you are using a LaTeX Editor, you can cite the papers above using these BibTeX citations:
+<br>
 ```
 @article{doi:10.1177/1045389X20963171,
 author = {Samuel da Silva and Jessé Paixão and Marc Rébillat and Nazih Mechbal},
