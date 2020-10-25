@@ -1,4 +1,4 @@
-# UNESP-CONCEPT: CarbON-epoxy CompositE PlaTe from UNESP SHM Lab/Ilha Solteira
+# CONCEPT: CarbON-epoxy CompositE PlaTe 
 
 To download the data set, please fill the form:
 
