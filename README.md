@@ -35,6 +35,8 @@ The data are still available for non-commercial research under the following ter
 
 This dataset was used in these papers and dissertations:<br>
 
+<li>Ferreira, L. P. S.; Teloli, R. O.; Samuel da Silva; Figueiredo, E.; Moldovan, I.; Maia, N.; Cimini, C. A., "Bayesian calibration for Lamb wave propagation on a composite plate using a machine learning surrogate model", Mechanical Systems and Signal Processing, v. 208, p. 111011, 2024, [Online]. Available: https://doi.org/10.1016/j.ymssp.2023.111011</li><br>
+
 <li>da Silva S, Paixão J, Rébillat M, Mechbal N. Extrapolation of AR models using cubic splines for damage progression evaluation in composite structures. Journal of Intelligent Material Systems and Structures. October 2020. https://doi.org/10.1177/1045389X20963171</li><br>
 
 <li>Paixão, J. A. S. ; da Silva, Samuel ; Figueiredo, Eloi ; RADU, L. ; PARK, G. . Delamination area quantification in composite 	structures using Gaussian process regression and AR models. Journal of Vibration and Control, 2020. https://doi.org/10.1177/1077546320966183</li><br>
@@ -47,10 +49,21 @@ This dataset was used in these papers and dissertations:<br>
 
 <li>da Silva, S. Data-driven model identification of guided wave propagation in composite structures. Journal of the Brazilian Society of Mechanical Sciences and Engineering, 40, 543 (2018). https://doi.org/10.1007/s40430-018-1462-4</li><br>
 
-
 If you are using a LaTeX Editor, you can cite the papers above using these BibTeX citations:
 
 ```
+@article{FERREIRA2024111011,
+title = {Bayesian calibration for Lamb wave propagation on a composite plate using a machine learning surrogate model},
+journal = {Mechanical Systems and Signal Processing},
+volume = {208},
+pages = {111011},
+year = {2024},
+issn = {0888-3270},
+doi = {https://doi.org/10.1016/j.ymssp.2023.111011},
+url = {https://www.sciencedirect.com/science/article/pii/S0888327023009196},
+author = {Leonardo de Paula S. Ferreira and Rafael de O. Teloli and Samuel {da Silva} and Eloi Figueiredo and Ionut D. Moldovan and Nuno Maia and Carlos Alberto Cimini},
+}
+
 @article{doi:10.1177/1045389X20963171,
 author = {Samuel da Silva and Jessé Paixão and Marc Rébillat and Nazih Mechbal},
 title ={Extrapolation of AR models using cubic splines for damage progression evaluation in composite structures},
